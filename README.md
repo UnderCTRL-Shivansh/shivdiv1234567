@@ -6,3 +6,6 @@ From a young age, I have been fascinated by the possibilities of technology and 
 Recently, I have been focused on expanding their knowledge of artificial intelligence, and has started exploring topics like machine learning and natural language processing. They are excited by the potential of AI to revolutionize industries like healthcare, finance, and transportation, and are eager to contribute to this field in the future.
 
 In addition to my technical skills, I am also a motivated and creative problem solver. I enjoy taking on complex challenges and finding innovative solutions, and are constantly looking for ways to improve their coding abilities. With their strong work ethic and dedication to learning, I am sure to be a successful developer and AI expert in the years to come.
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
